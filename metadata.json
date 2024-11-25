@@ -1,0 +1,6 @@
+{
+    "name": "zombie coin",
+    "symbol": "ZBC",
+    "description": "Example token from Solana Making a Token guide.",
+    "image": "https://raw.githubusercontent.com/zbccoin/zbc/main/ZBC.png"
+  }
